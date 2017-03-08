@@ -1,5 +1,8 @@
 [![Build Status](http://jenkins.sonata-nfv.eu/buildStatus/icon?job=son-examples)](http://jenkins.sonata-nfv.eu/job/son-examples)
-[ ![License] [http://img.shields.io/badge/license-Apache--2-blue.svg?style=flat] ] [http://www.apache.org/licenses/LICENSE-2.0]]
+[ ![License] [license-image] ] [license]
+
+[license-image]: http://img.shields.io/badge/license-Apache--2-blue.svg?style=flat
+[license]: http://www.apache.org/licenses/LICENSE-2.0
 # son-examples
 
 This repository contains several example network services and their corresponding VNFs that can be used to test SONATA's SDK tools and SONATA's service platform.
