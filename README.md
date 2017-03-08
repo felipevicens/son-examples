@@ -1,5 +1,6 @@
 [![Build Status](http://jenkins.sonata-nfv.eu/buildStatus/icon?job=son-examples)](http://jenkins.sonata-nfv.eu/job/son-examples)
 [ ![License] [license-image] ] [license]
+[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)]()
 
 [license-image]: http://img.shields.io/badge/license-Apache--2-blue.svg?style=flat
 [license]: http://www.apache.org/licenses/LICENSE-2.0
